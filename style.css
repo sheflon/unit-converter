@@ -163,7 +163,7 @@ form div button{
     border-radius: 5px;
     font-size: 20px;
     background-color: transparent;
-    color: black;
+    color: red;
     cursor: pointer;
     transition: 0.5s;
 }
